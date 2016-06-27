@@ -1,0 +1,26 @@
+{
+  "name": "testem-statistics",
+  "version": "0.0.1",
+  "description": "Prints a chart after running tests that provides an overview of various statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickiaconis/testem-statistics.git"
+  },
+  "keywords": [
+    "testem",
+    "testing",
+    "report",
+    "statistics",
+    "runtime"
+  ],
+  "author": "Nick Iaconis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickiaconis/testem-statistics/issues"
+  },
+  "homepage": "https://github.com/nickiaconis/testem-statistics#readme"
+}
